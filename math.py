@@ -16,8 +16,10 @@ def divide(x,y):     #on master branch
 
     elseif:
 		return dontworry its not a big issue
-
+#square implementation
 def square(x):#square implementation
     return x*x
+
+
     
 #change has to be made
