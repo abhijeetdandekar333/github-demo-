@@ -21,7 +21,9 @@ def square(x):#square implementation
     return x*x
 def thrice(x):
     x+x+x
-add somethinng  //new
+
+    subtract someone from prabhu teli
+
 
     
 #change has to be made
