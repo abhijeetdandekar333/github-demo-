@@ -20,7 +20,7 @@ def divide(x,y):     #on master branch
 def square(x):#square implementation
     return x*x
 def thrice(x):
-    x+x+x
+    return x+x+x
 
 
     
